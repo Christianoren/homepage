@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.8e524e24.chunk.css",
+    "main.js": "/homepage/static/js/main.8284f233.chunk.js",
+    "main.js.map": "/homepage/static/js/main.8284f233.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.65456970.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.65456970.js.map",
+    "static/js/2.8cdc4025.chunk.js": "/homepage/static/js/2.8cdc4025.chunk.js",
+    "static/js/2.8cdc4025.chunk.js.map": "/homepage/static/js/2.8cdc4025.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "static/css/main.8e524e24.chunk.css.map": "/homepage/static/css/main.8e524e24.chunk.css.map",
+    "static/js/2.8cdc4025.chunk.js.LICENSE.txt": "/homepage/static/js/2.8cdc4025.chunk.js.LICENSE.txt",
+    "static/media/snowflake.2ce58d94.png": "/homepage/static/media/snowflake.2ce58d94.png",
+    "static/media/app.scss": "/homepage/static/media/snowy_04.b4645ccf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65456970.js",
+    "static/js/2.8cdc4025.chunk.js",
+    "static/css/main.8e524e24.chunk.css",
+    "static/js/main.8284f233.chunk.js"
+  ]
+}
